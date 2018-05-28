@@ -1,0 +1,9 @@
+#---Comment Part - Files to ignore ---#
+#--- Project Files or Folders ---#
+catalog
+target
+#--- User Specific conf Files ---#
+.settings
+.classpath
+.project
+mule-project.xml
